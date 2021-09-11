@@ -4,7 +4,7 @@ Formado em Ciência da Computação, pós-graduando em Arquitetura de Sistemas D
 
 * 🤓 Entusiasta das melhores tecnologias de desenvolvimento Web.
 
-* 👨🏻‍💻 Atualmente trabalho no [MI4U](https://www.mi4u.com.br) como desenvolvedor back-end em Python.
+* 👨🏻‍💻 Atualmente trabalho na [Softplan](https://www.softplan.com.br) como desenvolvedor back-end em .NET.
 
 * 💪 Forte experiência no desenvolvimento .NET, NodeJs, Java EE e Python.
 
