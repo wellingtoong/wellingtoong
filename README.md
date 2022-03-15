@@ -4,7 +4,7 @@ Formado em Ciência da Computação, pós-graduando em Arquitetura de Sistemas D
 
 * 🤓 Entusiasta das melhores tecnologias de desenvolvimento Web.
 
-* 👨🏻‍💻 Atualmente trabalho na [Softplan](https://www.softplan.com.br) como desenvolvedor back-end em .NET.
+* 👨🏻‍💻 Atualmente trabalho na [Iteris](https://www.iteris.com.br) como Senior Software Engineer.
 
 * 💪 Forte experiência no desenvolvimento .NET, NodeJs, Java EE e Python.
 
