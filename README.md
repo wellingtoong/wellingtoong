@@ -5,8 +5,8 @@
 
 <p><samp>I'm a developer passionate about the best web development technologies, <br> systems architecture and design patterns.</samp></p>
 
-<p><samp>Currently as a Solutions Architect at <a href="https://www.iteris.com.br">Iteris</a>.</samp></p>
-<p><samp>Great experience in .NET, Node.JS, Golang, Java EE and Python development.</samp></p>
+<p><samp>Currently as a Specialist Software Engineer at <a href="https://doc9.com.br/">Doc9</a>.</samp></p>
+<p><samp>Great experience in .NET, Node.JS, Python, Java EE and Golang development.</samp></p>
 
 <p> <samp>Computer Scientist, <br> Distributed Software Architecture Specialist <br> and Software Engineer. </samp></p>
 
